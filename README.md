@@ -6,7 +6,7 @@ PEMBAGIAN TUGAS :
 <br>
 - Miftah : Body
 <br>
-- Yovi : Footer
+- Yovi : Body
 <br>
 - Rifaldi : Header
 <br>
