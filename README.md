@@ -12,5 +12,4 @@ PEMBAGIAN TUGAS :
 <br>
 - Rafi : Asset
 
-TEST....
-KLVHIOSJVIOSO
+Giwan
