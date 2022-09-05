@@ -12,4 +12,3 @@ PEMBAGIAN TUGAS :
 <br>
 - Rafi : Asset
 
-Giwan
