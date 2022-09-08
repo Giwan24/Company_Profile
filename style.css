@@ -2,7 +2,7 @@ a:hover{
 text-decoration: none;
 }
 #about {
-background: url("https://res.cloudinary.com/munnapatel003/image/upload/v1631986250/87643.jpg") center top no-repeat fixed;
+background: url("https://img.freepik.com/free-vector/gradient-background-green-tones_23-2148374530.jpg") center top no-repeat fixed;
 background-size: cover;
 padding: 29px 0 40px 0;
 position: relative;
@@ -53,7 +53,7 @@ left: 0;
 right: 0;
 top: 0;
 bottom: 0;
-background: rgb(255 255 255 / 48%);
+
 z-index: 9;
 }
 
